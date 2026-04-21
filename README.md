@@ -32,7 +32,8 @@ Avg temperature
 
 # Step 4: Model Building
 
-Linear Regression
+Linear Regression and
+
 Random Forest Regressor
 
 # Step 5: Prediction
